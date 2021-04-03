@@ -22,4 +22,4 @@ Then thats it the bot will be online!!
 ⚠ NOTE: If you are not using repl.it remove the `server.js` file.
 
 ### Repl.it
-[![Clone](https://www.replit.com/repls/button.svg)](https://www.replit.com/)
+[![Clone](![image](https://user-images.githubusercontent.com/77684468/113480246-02add100-94b1-11eb-9301-f5aa3faab057.png))](https://www.replit.com/)
