@@ -22,4 +22,4 @@ Then thats it the bot will be online!!
 ⚠ NOTE: If you are not using repl.it remove the `server.js` file.
 
 ### Repl.it
-[![Clone](https://www.herokucdn.com/deploy/button.svg)](https://www.replit.com/)
+[![Clone](https://www.replit.com/repls/button.svg)](https://www.replit.com/)
