@@ -1,5 +1,6 @@
 This is a repo for my tutorial serise.
-**This is how to use it: **
+
+*This is how to use it: *
 
 1. After you clone it rename `copy.env` to `.env`.
 
