@@ -21,4 +21,4 @@ Then thats it the bot will be online!!
 
 ⚠ NOTE: If you are not using repl.it remove the `server.js` file.
 
-### [Repl.it] ( https://www.replit.com/ )
+### Repl.it ( https://www.replit.com/ )
