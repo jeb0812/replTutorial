@@ -17,3 +17,6 @@ This is a repo for my tutorial serise.
 5. Now to run the bot in repl.it simply click `RUN` or if your not on repl.it type node . in the console.
 
 Then thats it the bot will be online!!
+
+
+⚠ NOTE: If you are not using repl.it remove the `server.js` file.
