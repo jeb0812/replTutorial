@@ -22,4 +22,4 @@ Then thats it the bot will be online!!
 ⚠ NOTE: If you are not using repl.it remove the `server.js` file.
 
 ### Repl.it 
-<a herf="https://replit.com/@GhostDev/Tutorial#index.js"><img src="https://user-images.githubusercontent.com/77684468/113876150-16b94180-97d5-11eb-9611-06242af5163a.png"></a>
+<a herf="https://replit.com/@GhostDev/Tutorial#index.js"><img src="https://user-images.githubusercontent.com/77684468/113876350-4700e000-97d5-11eb-8187-f0e556fad6d1.png"></a>
